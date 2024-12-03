@@ -1,0 +1,84 @@
+.main{
+    background-color: blueviolet;
+    padding: 20px;
+}
+.nav
+{
+    text-decoration: none;
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    
+    justify-content: space-between;
+}
+.Home{
+    background-color: antiquewhite;
+    text-align: center;
+    padding: 15px 60px;
+    border:  1px solid rgb(117, 103, 94);
+    color: blueviolet;
+}
+.About{
+    background-color: antiquewhite;
+    text-align: center;
+    padding: 15px 60px;
+    border:  1px solid rgb(117, 103, 94);
+    color: blueviolet;
+}
+.Blog{
+    background-color: antiquewhite;
+    text-align: center;
+    padding: 15px 60px;
+    border:  1px solid rgb(117, 103, 94);
+    color: blueviolet;
+}
+.CAreers{
+    background-color: antiquewhite;
+    text-align: center;
+    padding: 15px 60px;
+    border:  1px solid rgb(117, 103, 94);
+    color: blueviolet;
+}
+.Contact{
+    background-color: antiquewhite;
+    text-align: center;
+    padding: 15px 60px;
+    border:  1px solid rgb(117, 103, 94);
+    color: blueviolet;
+}
+.image{
+    display: flex;
+}
+img{
+    width: 400px;
+    height: 400px;
+}
+.box{
+    width: 450px;
+    height: 500px;
+    border: 7px solid gray;
+    text-align: center;
+}
+.box1{
+    width: 450px;
+    height: 500px;
+    border: 7px solid gray;
+    text-align: center;
+}
+button{
+    width: 200px;
+    height: 20px;
+}
+.box2{
+    width: 450px;
+    height: 500px;
+    border: 7px solid gray;
+    text-align: center;
+}
+.footer{
+    background-color: blueviolet;
+    padding: 2px;
+    text-align: center;
+    color: black;
+}
