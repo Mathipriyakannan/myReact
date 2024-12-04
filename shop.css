@@ -1,0 +1,25 @@
+body{
+  background-image: url(img2.jpg);  
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 300px;
+}
+.navbar {
+    background-color: black;
+    color: white;
+    
+
+}
+.color{
+    color: orangered;
+}
+.navbar{
+    background-color: white;
+}
+.button{
+    background-color: red;
+    color: white;
+    font-size: small;
+    width: 150px;
+}
+
